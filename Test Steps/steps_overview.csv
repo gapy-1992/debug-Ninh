@@ -1,0 +1,16 @@
+Flow ID,Description,Test Steps,Flow Priority
+2,Verify Page Home Navigation,"step 1: Navigate to Page home
+step 2: Add visual checkpoint at Page home",High
+3,Verify Page Cart Navigation,"step 1: Navigate to Page cart
+step 2: Add visual checkpoint at Page cart",Trivial
+5,Verify Page Checkout Payment Navigation,"step 1: Navigate to Page checkout payment
+step 2: Add visual checkpoint at Page checkout payment",Trivial
+6,Verify Page Checkout Info Navigation,"step 1: Navigate to Page checkout info
+step 2: Add visual checkpoint at Page checkout info",Trivial
+4,Verify Page Checkout Shipping Address Navigation,"step 1: Navigate to Page checkout shipping-address
+step 2: Add visual checkpoint at Page checkout shipping-address",Trivial
+1,Verify Page Category Phone after Clicking Object,"step 1: Navigate to Page category phone
+step 2: At Page category phone click on button object
+step 3: Add visual checkpoint at Page category phone",Trivial
+7,Verify Page Category Apple Navigation,"step 1: Navigate to Page category apple
+step 2: Add visual checkpoint at Page category apple",Trivial
