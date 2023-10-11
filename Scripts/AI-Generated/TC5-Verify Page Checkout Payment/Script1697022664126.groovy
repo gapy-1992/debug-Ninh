@@ -9,13 +9,13 @@ def setup() {
 	WebUI.setViewPortSize(1920, 1080)	
 }
 
-'step 1: Navigate to Page category apple'
+'step 1: Navigate to Page checkout payment'
 
-WebUI.navigateToUrl(GlobalVariable.application_domain + '/category/apple')
+WebUI.navigateToUrl(GlobalVariable.application_domain + '/checkout/payment')
 
-'step 2: Add visual checkpoint at Page category apple'
+'step 2: Add visual checkpoint at Page checkout payment'
 
-WebUI.takeFullPageScreenshotAsCheckpoint('TC7-Verify Page Category Apple Navigation_visual_checkpoint')
+WebUI.takeFullPageScreenshotAsCheckpoint('TC5-Verify Page Checkout Payment_visual_checkpoint')
 
 'Terminate test session: Close browser'
 
